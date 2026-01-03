@@ -1,0 +1,1 @@
+requests==2.31.0\nbeautifulsoup4==4.12.3\nnumpy==1.26.4\nplaywright==1.41.0
